@@ -3,4 +3,7 @@ This repository will be used for storing projects that I have worked on for the 
 Class:
 CIT - 227-Applied Programming
 Name:
-Wyatt McNeil
+Wyatt McNeil 
+
+THIS IS THE SECOND TIME THAT I AM ADDING GARBAGE TEXT!
+
